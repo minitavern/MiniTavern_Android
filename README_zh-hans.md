@@ -1,4 +1,4 @@
-# MiniTavern Android 客户端
+# MiniTavern Android 安卓客户端 | 酒馆安卓 | 本地模型 | 酒馆AI | Silly Tavern 安卓最佳替换 | 破限聊天 | 蠢酒馆 AI | 酒馆 AI
 
 ![the_best_sillytavern_alternative_android.webp](the_best_sillytavern_alternative_android.webp)
 
