@@ -7,7 +7,7 @@ It brings the immersive AI role-playing and character chat experience you love d
 
 ![screenshots_of_MiniTavern](flat_1280_720.webp)
 
-[Japanese](./README_jp.md) | [Simplified Chinese](./README_zh-hans.md) | [Traditional Chinese](./README_zh-hant.md) | [Russian](./README_ru.md)
+[日本語](./README_jp.md) | [简体中文](./README_zh-hans.md) | [繁體中文](./README_zh-hant.md) | [Русский](./README_ru.md)
 
 **Download it through Release Page**
 
