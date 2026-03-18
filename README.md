@@ -1,4 +1,4 @@
-# MiniTavern Android Client
+# MiniTavern Android Client · Best Silly Tavern Alternative | ST Android | Tavern AI | SFW Chatbot | Silly Tavern iOS Android Mobile
 
 ![the_best_sillytavern_alternative_android.webp](the_best_sillytavern_alternative_android.webp)
 
