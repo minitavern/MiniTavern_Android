@@ -1,5 +1,7 @@
 # MiniTavern Android Client
 
+![the_best_sillytavern_alternative_android.webp](the_best_sillytavern_alternative_android.webp)
+
 **MiniTavern** is a free, mobile-optimized companion app designed specifically for fans of **SillyTavern**.  
 It brings the immersive AI role-playing and character chat experience you love directly to your Android phone — anytime, anywhere, without needing a computer, complex setup, or technical knowledge.
 
