@@ -2,12 +2,14 @@
 
 ![the_best_sillytavern_alternative_android.webp](the_best_sillytavern_alternative_android.webp)
 
+
+[日本語](./README_jp.md) | [简体中文](./README_zh-hans.md) | [繁體中文](./README_zh-hant.md) | [Русский](./README_ru.md)
+
+
 **MiniTavern** is a free, mobile-optimized companion app designed specifically for fans of **SillyTavern**.  
 It brings the immersive AI role-playing and character chat experience you love directly to your Android phone — anytime, anywhere, without needing a computer, complex setup, or technical knowledge.
 
 ![screenshots_of_MiniTavern](flat_1280_720.webp)
-
-[日本語](./README_jp.md) | [简体中文](./README_zh-hans.md) | [繁體中文](./README_zh-hant.md) | [Русский](./README_ru.md)
 
 **Download it through Release Page**
 
