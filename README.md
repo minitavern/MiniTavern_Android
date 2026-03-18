@@ -50,4 +50,4 @@ Thank you for your understanding — we are actively working toward full Play St
 
 Download and enjoy the mobile SillyTavern experience today!
 
-**Official Website:** https://mini-tavern.com
+**Official Website:** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
