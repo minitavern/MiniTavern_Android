@@ -11,6 +11,8 @@ It brings the immersive AI role-playing and character chat experience you love d
 
 **Download it through [Google Play](https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en6)**
 
+![MiniTavern on Google Play](MiniTavern_on_Google_Play1.webp)
+
 **Attention** This channel is not supported in future, plz update app through Google Play.
 
 Whether you're into deep role-playing, practicing dating conversations, language learning through immersive chats, or simply seeking emotional companionship with AI characters, MiniTavern delivers a smooth, enjoyable mobile experience.
