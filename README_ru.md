@@ -5,8 +5,6 @@
 **MiniTavern** — бесплатное мобильное приложение, созданное специально для поклонников **SillyTavern**.  
 Оно переносит захватывающий опыт ролевых игр с ИИ и общения с персонажами прямо на ваш Android-смартфон — в любое время и в любом месте, без компьютера, сложных настроек и технических знаний.
 
-![screenshots_of_MiniTavern](flat_1280_720.webp)
-
 [English](./README.md) | [日本語](./README_jp.md) | [简体中文](./README_zh-hans.md) | [繁體中文](./README_zh-hant.md)
 
 **Скачайте через страницу Releases**
@@ -58,5 +56,5 @@ MiniTavern устраняет эти барьеры — никакого root, �
 
 **Официальный сайт:** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
 
-Обновлено 18 марта 2026 г.  
-MiniTavern Android версия 1.4.2
+Обновлено 23 апреля 2026 г.
+MiniTavern Android версия 1.4.5
