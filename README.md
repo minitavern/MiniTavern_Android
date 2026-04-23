@@ -52,12 +52,6 @@ Traditional SillyTavern setups are powerful but desktop-oriented and often requi
 MiniTavern removes those barriers — no rooting, no Termux, no Linux emulators, no port forwarding.  
 Just install, import a character (or use samples), add your API key (or use free quotas), and start chatting.
 
-## Important Distribution Notice
-
-Due to ongoing Google Play review issues that have not yet been resolved, we are temporarily distributing the Android client through alternative channels.  
-Once an official version passes Google Play review and is published there, this sideloading/distribution version will be taken down.  
-Thank you for your understanding — we are actively working toward full Play Store availability.
-
 Download and enjoy the mobile SillyTavern experience today!
 
 **Official Website:** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
