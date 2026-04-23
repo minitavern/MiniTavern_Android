@@ -5,8 +5,6 @@
 **MiniTavern** は、**SillyTavern** ファンのために設計された、無料のモバイル最適化コンパニオンアプリです。  
 あなたが愛する没入型 AI ロールプレイとキャラクターチャットの体験を、Android スマートフォンに直接届けます——いつでもどこでも、パソコンや複雑なセットアップ、専門知識は一切不要です。
 
-![screenshots_of_MiniTavern](flat_1280_720.webp)
-
 [English](./README.md) | [简体中文](./README_zh-hans.md) | [繁體中文](./README_zh-hant.md) | [Русский](./README_ru.md)
 
 **Release ページよりダウンロードしてください**
@@ -58,5 +56,5 @@ Google Play の審査に関する問題が現在も未解決のため、Android 
 
 **公式サイト：** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
 
-2026 年 3 月 18 日 更新  
-MiniTavern Android バージョン 1.4.2
+2026 年 4 月 23 日 更新  
+MiniTavern Android バージョン 1.4.5
