@@ -9,11 +9,7 @@
 **MiniTavern** is a free, mobile-optimized companion app designed specifically for fans of **SillyTavern**.  
 It brings the immersive AI role-playing and character chat experience you love directly to your Android phone — anytime, anywhere, without needing a computer, complex setup, or technical knowledge.
 
-![screenshots_of_MiniTavern](flat_1280_720.webp)
-
-**Download it through [GitHub Release](https://github.com/minitavern/MiniTavern_Android/releases/)**
-
-**Download it on [APKPure](https://apkpure.com/group/com.kongyouwangluo.minitavern)**
+**Download it through [Google Play](https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en6)**
 
 Whether you're into deep role-playing, practicing dating conversations, language learning through immersive chats, or simply seeking emotional companionship with AI characters, MiniTavern delivers a smooth, enjoyable mobile experience.
 
@@ -62,5 +58,5 @@ Download and enjoy the mobile SillyTavern experience today!
 
 **Official Website:** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
 
-Updated March 17, 2026
-MiniTavern Android Version 1.4.2
+Updated Apr 23, 2026
+MiniTavern Android Version 1.4.5
