@@ -46,12 +46,6 @@
 MiniTavern 消除了這些門檻——無需 Root、無需 Termux、無需 Linux 模擬器、無需埠轉發。  
 只需安裝、匯入角色（或使用內建範例）、填入 API 金鑰（或使用免費額度），即可開始聊天。
 
-## 重要發佈說明
-
-由於 Google Play 審核問題尚未解決，我們暫時透過其他管道發佈 Android 用戶端。  
-一旦官方版本通過 Google Play 審核並上架，此側載/發佈版本將同步下架。  
-感謝你的理解與支持——我們正積極推進全面上架 Play Store 的進程。
-
 立即下載，隨時隨地享受行動端 SillyTavern 體驗！
 
 **官方網站：** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
