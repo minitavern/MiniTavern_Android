@@ -5,8 +5,6 @@
 **MiniTavern** 是一款免费的移动端伴侣应用，专为 **SillyTavern** 爱好者打造。  
 它将你钟爱的沉浸式 AI 角色扮演与角色对话体验直接带到你的 Android 手机——随时随地，无需电脑、复杂配置或任何技术知识。
 
-![screenshots_of_MiniTavern](flat_1280_720.webp)
-
 [English](./README.md) | [日本語](./README_jp.md) | [繁體中文](./README_zh-hant.md) | [Русский](./README_ru.md)
 
 **请通过 Release 页面下载**
@@ -58,5 +56,5 @@ MiniTavern 消除了这些门槛——无需 Root、无需 Termux、无需 Linux
 
 **官方网站：** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
 
-更新于 2026 年 3 月 18 日  
-MiniTavern Android 版本 1.4.2
+更新于 2026 年 4 月 23 日  
+MiniTavern Android 版本 1.4.5
