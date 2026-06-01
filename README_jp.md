@@ -7,7 +7,16 @@
 
 [English](./README.md) | [简体中文](./README_zh-hans.md) | [繁體中文](./README_zh-hant.md) | [Русский](./README_ru.md)
 
-**Release ページよりダウンロードしてください**
+## ダウンロードと更新導線
+
+- **Google Play（正式・推奨）**  
+  [https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en](https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en)
+
+- **公式 GitHub トラッキング版（ストア審査に時間差がある場合）**  
+  [https://github.com/minitavern/MiniTavern_Android/releases](https://github.com/minitavern/MiniTavern_Android/releases)
+
+> **更新方針：** 長期的なインストールと更新は **Google Play** を主導線とします。  
+> ストア審査に時間差がある場合のみ、公式 GitHub トラッキング版で最新の利用可能ビルドを同期します。
 
 深いロールプレイ、デートの会話練習、没入型チャットによる語学学習、あるいは AI キャラクターとの心の交流——どんな目的にも、MiniTavern はスムーズで楽しいモバイル体験を提供します。
 
@@ -46,10 +55,9 @@
 MiniTavern はそのハードルを取り除きます——ルート化不要、Termux 不要、Linux エミュレーター不要、ポートフォワーディング不要。  
 インストールして、キャラクターをインポート（またはサンプルを使用）し、API キーを入力（または無料枠を使用）するだけで、チャットを始められます。
 
+Google Play を主導線として利用する場合は、通常どおりストア更新で問題ありません。  
+先に最新版を試したい場合は、上記 GitHub トラッキング版をご利用ください。
 
-今すぐダウンロードして、どこでもモバイル SillyTavern 体験をお楽しみください！
+**公式サイト：** [https://mini-tavern.com](https://mini-tavern.com)
 
-**公式サイト：** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
-
-2026 年 4 月 23 日 更新  
-MiniTavern Android バージョン 1.4.5
+2026 年 6 月 1 日 更新
