@@ -1,4 +1,4 @@
-# MiniTavern Android クライアント
+# MiniTavern Android クライアント | Silly Tavern Android | 酒館アプリ | Google Play 正式版 | GitHub 公式トラッキング | キャラクターカード | ロールプレイ | AIチャット
 
 ![the_best_sillytavern_alternative_android.webp](the_best_sillytavern_alternative_android.webp)
 
