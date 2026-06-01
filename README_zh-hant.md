@@ -1,4 +1,4 @@
-# MiniTavern Android 用戶端
+# MiniTavern Android 用戶端 | 安卓酒館 | Silly Tavern Android | Google Play 正式版 | GitHub 官方追蹤版 | 角色卡 | 本機模型 | 酒館 AI | 行動端聊天
 
 ![the_best_sillytavern_alternative_android.webp](the_best_sillytavern_alternative_android.webp)
 
