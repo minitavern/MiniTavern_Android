@@ -1,4 +1,4 @@
-# MiniTavern Android клиент
+# MiniTavern Android клиент | Silly Tavern Android | таверна на Android | Google Play | официальный GitHub tracking | карточки персонажей | AI ролевые игры
 
 ![the_best_sillytavern_alternative_android.webp](the_best_sillytavern_alternative_android.webp)
 
