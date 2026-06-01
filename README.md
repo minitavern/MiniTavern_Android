@@ -2,59 +2,61 @@
 
 ![the_best_sillytavern_alternative_android.webp](the_best_sillytavern_alternative_android.webp)
 
-
 [日本語](./README_jp.md) | [简体中文](./README_zh-hans.md) | [繁體中文](./README_zh-hant.md) | [Русский](./README_ru.md)
 
+**MiniTavern** is a free, mobile-optimized companion app designed for fans of **SillyTavern**.  
+It brings immersive AI role-playing and character chat to Android — anytime, anywhere, without a PC, complex setup, or technical barriers.
 
-**MiniTavern** is a free, mobile-optimized companion app designed specifically for fans of **SillyTavern**.  
-It brings the immersive AI role-playing and character chat experience you love directly to your Android phone — anytime, anywhere, without needing a computer, complex setup, or technical knowledge.
+## Download & Update Channels
 
-**Download it through [Google Play](https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en6)**
+- **Google Play (Primary / Recommended):**  
+  [https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en](https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en)
+
+- **Official GitHub Tracking Releases (When Play review timing lags):**  
+  [https://github.com/minitavern/MiniTavern_Android/releases](https://github.com/minitavern/MiniTavern_Android/releases)
 
 ![MiniTavern on Google Play](MiniTavern_on_Google_Play1.webp)
 
-**Attention** This channel is not supported in future, plz update app through Google Play.
+> **Update policy:** Google Play remains the long-term official install/update path.  
+> When store review timing is delayed, we keep the latest available Android build in sync through official GitHub Tracking Releases.
 
-Whether you're into deep role-playing, practicing dating conversations, language learning through immersive chats, or simply seeking emotional companionship with AI characters, MiniTavern delivers a smooth, enjoyable mobile experience.
+Whether you're into deep role-play, dating conversation practice, language learning through immersive chats, or emotional companionship with AI characters, MiniTavern provides a smooth mobile-first experience.
 
 ## Key Features
 
 - **Full SillyTavern Character Card Support**  
-  Easily import .png or .json character cards from SillyTavern (including built-in samples, community shares, and image/URL supported cards).
+  Import `.png` / `.json` character cards from SillyTavern (including samples, shared cards, image cards, and URL cards).
 
 - **Broad AI Model Compatibility**  
-  Connect to leading providers such as:  
-  - OpenAI (ChatGPT)  
-  - Anthropic (Claude)  
-  - Google Gemini  
-  - xAI Grok  
-  - DeepSeek  
-  - OpenRouter  
-  - Ollama (local models)  
-  - and other OpenAI-compatible endpoints
+  Works with providers such as:
+  - OpenAI (ChatGPT)
+  - Anthropic (Claude)
+  - Google Gemini
+  - xAI Grok
+  - DeepSeek
+  - OpenRouter
+  - Ollama (local models)
+  - Other OpenAI-compatible endpoints
 
 - **Mobile-First Design**  
-  Clean, intuitive interface built from the ground up for touch screens — no desktop awkwardness or tiny text.
+  Clean and touch-friendly interface built for phones.
 
-- **Privacy-Focused & Local Storage**  
-  All your character cards, API keys, chat history, and settings are stored **only on your device**.  
-  Nothing is uploaded to our servers. Uninstalling the app removes all data.
+- **Privacy-Focused Local Storage**  
+  Character cards, API keys, chat history, and settings are stored on your device.
 
-- **Completely Free Core Experience**  
-  No paywall for basic chatting, importing characters, or using your own API keys.
+- **Free Core Experience**  
+  Basic chatting, character import, and BYO API key workflow are available without a core paywall.
 
-- **Offline Support**  
-  Use local models (via Ollama-compatible endpoints) for completely private, internet-free chats.
+- **Offline-Capable Usage**  
+  Use local-model endpoints (e.g., Ollama-compatible setups) for private, local-first chats.
 
 ## Why MiniTavern on Android?
 
-Traditional SillyTavern setups are powerful but desktop-oriented and often require technical configuration.  
-MiniTavern removes those barriers — no rooting, no Termux, no Linux emulators, no port forwarding.  
-Just install, import a character (or use samples), add your API key (or use free quotas), and start chatting.
+Traditional SillyTavern workflows are powerful but desktop-oriented and often require technical setup.  
+MiniTavern removes those barriers: no rooting, no Termux, no Linux emulators, no port forwarding.
 
-Download and enjoy the mobile SillyTavern experience today!
+Install, import a character (or use samples), connect your API (or use available free quotas), and start chatting.
 
-**Official Website:** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
+**Official Website:** [https://mini-tavern.com](https://mini-tavern.com)
 
-Updated Apr 23, 2026
-MiniTavern Android Version 1.4.5
+Updated Jun 1, 2026
