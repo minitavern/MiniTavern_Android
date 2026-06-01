@@ -7,7 +7,16 @@
 
 [English](./README.md) | [日本語](./README_jp.md) | [简体中文](./README_zh-hans.md) | [Русский](./README_ru.md)
 
-**請透過 Release 頁面下載**
+## 下載與更新渠道
+
+- **Google Play（正式渠道 / 建議優先）：**  
+  [https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en](https://play.google.com/store/search?q=MiniTavern&c=apps&hl=en)
+
+- **GitHub 官方追蹤版（商店審核存在時間差時）：**  
+  [https://github.com/minitavern/MiniTavern_Android/releases](https://github.com/minitavern/MiniTavern_Android/releases)
+
+> **更新說明：** 長期安裝與更新請以 **Google Play** 為主。  
+> 當商店審核節奏不穩定時，GitHub 官方追蹤版用於同步目前可用的最新版。
 
 無論你熱衷於深度角色扮演、練習約會對話、透過沉浸式聊天學習語言，還是只想與 AI 角色尋求情感陪伴，MiniTavern 都能帶來流暢愉快的行動體驗。
 
@@ -46,9 +55,9 @@
 MiniTavern 消除了這些門檻——無需 Root、無需 Termux、無需 Linux 模擬器、無需埠轉發。  
 只需安裝、匯入角色（或使用內建範例）、填入 API 金鑰（或使用免費額度），即可開始聊天。
 
-立即下載，隨時隨地享受行動端 SillyTavern 體驗！
+若你只透過官方商店更新，按 Google Play 流程使用即可。  
+若希望在審核排隊期間先取得目前可用最新版，可使用上方 GitHub 官方追蹤版。
 
-**官方網站：** [https://mini-tavern.com](https://app.mini-tavern.com/nPqv/suc2ty9o)
+**官方網站：** [https://mini-tavern.com](https://mini-tavern.com)
 
-更新於 2026 年 4 月 23 日  
-MiniTavern Android 版本 1.4.5
+更新於 2026 年 6 月 1 日
